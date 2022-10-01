@@ -1,4 +1,5 @@
 # [random-keys]
+### ((cópia))
 ## gerador de tokens para as NFT's do [Capps] e [Mr.leonard]
 ### ele tem que analisar os tokens armazenados na pasta "token criados"
 ### se um token recem criado for igual a outro, ele será refeito até que não seja mais igual
